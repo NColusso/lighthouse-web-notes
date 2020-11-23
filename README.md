@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all the notes taken by Natasha Colusso for the Lighthouse Labs Web Development Bootcamp
+This repository contains all the notes taken by [Natasha](https://github.com/NColusso) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
